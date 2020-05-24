@@ -2,6 +2,10 @@
 It can install docker for run termux in alpine term applicatons so thats made automations script to install it
 It's make for alpine term applicaton to install it.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Firstly Download And Install wget%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 #### Ubuntu
 
 wget https://raw.githubusercontent.com/VISHAWANATH953/docker_on_android/master/install-run-ubuntu-latest.sh && chmod +x install-run-ubuntu-latest.sh && ./install-run-ubuntu-latest.sh
