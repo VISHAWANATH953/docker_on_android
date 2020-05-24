@@ -21,4 +21,4 @@ echo "$########https://www.github.com/VISHAWANATH953##########"
 
 # all things for install docker and add docker in boot also start docker service and finally install this termux docker image
 
-apk add wget docker && clear && rc-update add docker boot && clear && service docker start && clear && docker run -it amazonlinux
+apk add wget docker && clear && sleep 1  && clear && service docker start && clear && rc-update add docker  && clear && docker run -it amazonlinux
