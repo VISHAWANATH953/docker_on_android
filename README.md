@@ -2,7 +2,7 @@
 It can install docker for run termux in alpine term applicatons so thats made automations script to install it
 It's make for alpine term applicaton to install it.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Firstly Download And Install wget%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%Firstly Download And Install wget##
 
 
 #### Ubuntu
