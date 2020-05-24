@@ -21,4 +21,4 @@ echo "$########https://www.github.com/VISHAWANATH953##########"
 
 # all things for install docker and add docker in boot also start docker service and finally install this termux docker image
 
-apk add wget docker && clear && rc-update add docker boot && clear && service docker start && clear && docker run -it ubuntu:latest
+apk add wget docker && clear && service docker start && sleep 10 && clear && service docker start && rc-update add docker boot && clear && docker run -it ubuntu:latest
