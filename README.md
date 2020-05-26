@@ -4,6 +4,8 @@ It's make for alpine term applicaton to install it.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%Firstly Download And Install wget##
 
+we have first installation some error but next time it's run good yes issue have in alpine or my shell script making it workfull in first installation.
+
 
 #### Ubuntu
 
