@@ -57,4 +57,4 @@ wget https://raw.githubusercontent.com/VISHAWANATH953/docker_on_android/master/i
 
 #### Termux
 
-https://raw.githubusercontent.com/VISHAWANATH953/docker_on_android/master/install-run.sh && sh install-run.sh
+wget https://raw.githubusercontent.com/VISHAWANATH953/docker_on_android/master/install-run.sh && sh install-run.sh
